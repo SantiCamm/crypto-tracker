@@ -1,3 +1,3 @@
 # Crypto Tracker
 
-Simple and not responsive crypto-currency tracker
+Simple and non-responsive crypto-currency tracker
